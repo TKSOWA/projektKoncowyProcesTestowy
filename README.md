@@ -6,13 +6,15 @@ Dotychczas miałem do czynienia z następującymi narzędziami Jira, TestRail, P
 
 W moim projekcie końcowym zawarte mam elementy takie jak:
 
-***przypadki testowe italic***
-***raporty defektów***
-***raport końcowy z testów***
-***proste requesty w Postmanie*** 
+1. ***przypadki testowe***
+2. ***raporty defektów***
+3. ***raport końcowy z testów***
+4. ***proste requesty w Postmanie*** 
 
 
 Zachęcam do kontaktu.
+
+:owl:
 
 
 
