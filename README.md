@@ -1,11 +1,18 @@
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-***testowy text***
+**Cześć!**
 
-** ** Cześć! ** ** 
 Fajnie, że jesteście na moim pierwszym repozytorium, które stworzyłem podczas kursu na testera manualnego w trybie wieczorowym w SDA. 
 Przez ostatnie pół roku poszeżałem swoją wiedzę na temat tesotwania i branży IT.
-Przez ostatnie miesiące miałem do czynienia z następującymi narzędziami Jira, TestRail, Postman, Selenium.
+Dotychczas miałem do czynienia z następującymi narzędziami Jira, TestRail, Postman i Selenium.
 
+W moim projekcie końcowym zawarte mam elementy takie jak:
+
+***przypadki testowe italic***
+***raporty defektów***
+***raport końcowy z testów***
+***proste requesty w Postmanie*** 
+
+
+Zachęcam do kontaktu.
 
 
 
